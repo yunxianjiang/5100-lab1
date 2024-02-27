@@ -1,3 +1,5 @@
+package lab1;
+
 import java.util.ArrayList;
 
 public class lab1 {
@@ -53,4 +55,3 @@ public class lab1 {
 		System.out.println("Names (switched) = " + myList);
 	}
 }
-
